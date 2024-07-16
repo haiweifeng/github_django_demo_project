@@ -1,0 +1,14 @@
+django==5.0.6
+daphne
+django-redis
+django-cors-headers==3.4.0
+pandas
+djangorestframework
+psycopg2-binary
+coreapi
+upyun
+aiormq
+loguru
+uvicorn
+django_apscheduler
+django-after-response
